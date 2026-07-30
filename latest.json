@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "product": "ZyDevKit",
+  "version": "1.0.0",
+  "build": "2607291817",
+  "displayVersion": "Version 1.0.0 (2607291817)",
+  "tag": "v1.0.0",
+  "releaseTitle": "ZyDevKit 1.0.0 (2607291817)",
+  "website": "https://zydevkit.zyravo.store",
+  "supportEmail": "support@zyravo.store",
+  "feedbackEmail": "feedback@zyravo.store",
+  "issuesUrl": "https://github.com/zyravo-store/zydevkit/issues",
+  "wikiUrl": "https://github.com/zyravo-store/zydevkit/wiki",
+  "releaseUrl": "https://github.com/zyravo-store/zydevkit/releases/tag/v1.0.0",
+  "updates": {
+    "en": [
+      "Initial stable release of ZyDevKit."
+    ],
+    "zh-CN": [
+      "ZyDevKit 首个稳定版本。"
+    ]
+  },
+  "features": {
+    "en": [
+      "Inspect and transform common developer data formats.",
+      "Use focused browser utilities from one developer toolbox.",
+      "Run supported tools across Chrome, Edge, Firefox, and Safari."
+    ],
+    "zh-CN": [
+      "检查并转换常用开发数据格式。",
+      "在一个开发工具箱中使用多种专注的浏览器工具。",
+      "在 Chrome、Edge、Firefox 和 Safari 中使用支持的工具。"
+    ]
+  },
+  "packages": {
+    "chrome": {
+      "file": "zydevkit-chrome-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zydevkit/releases/download/v1.0.0/zydevkit-chrome-1.0.0.zip"
+    },
+    "edge": {
+      "file": "zydevkit-edge-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zydevkit/releases/download/v1.0.0/zydevkit-edge-1.0.0.zip"
+    },
+    "firefox": {
+      "file": "zydevkit-firefox-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zydevkit/releases/download/v1.0.0/zydevkit-firefox-1.0.0.zip"
+    },
+    "windows": {
+      "file": "zydevkit-windows-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zydevkit/releases/download/v1.0.0/zydevkit-windows-1.0.0.zip"
+    },
+    "linux": {
+      "file": "zydevkit-linux-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zydevkit/releases/download/v1.0.0/zydevkit-linux-1.0.0.zip"
+    },
+    "macos-pkg": {
+      "file": "zydevkit-macos-1.0.0.pkg",
+      "url": "https://github.com/zyravo-store/zydevkit/releases/download/v1.0.0/zydevkit-macos-1.0.0.pkg"
+    },
+    "macos-dmg": {
+      "file": "zydevkit-macos-1.0.0.dmg",
+      "url": "https://github.com/zyravo-store/zydevkit/releases/download/v1.0.0/zydevkit-macos-1.0.0.dmg"
+    },
+    "checksums": {
+      "file": "zydevkit-1.0.0-sha256.txt",
+      "url": "https://github.com/zyravo-store/zydevkit/releases/download/v1.0.0/zydevkit-1.0.0-sha256.txt"
+    }
+  }
+}
