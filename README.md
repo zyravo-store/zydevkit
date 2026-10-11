@@ -6,8 +6,8 @@
 
 | Item | Value |
 | --- | --- |
-| Version | Version 1.0.0 (2607291817) |
-| Release notes and assets | [GitHub Release](https://github.com/zyravo-store/zydevkit/releases/tag/v1.0.0) |
+| Version | Version 1.0.2 (2610110905) |
+| Release notes and assets | [GitHub Release](https://github.com/zyravo-store/zydevkit/releases/tag/v1.0.2) |
 | Checksums | Included with the assets in the same Release |
 
 ## Features
@@ -18,7 +18,7 @@
 
 ## Downloads and installation
 
-- [Download the verified Release assets](https://github.com/zyravo-store/zydevkit/releases/tag/v1.0.0)
+- [Download the verified Release assets](https://github.com/zyravo-store/zydevkit/releases/tag/v1.0.2)
 - [English installation guide](https://github.com/zyravo-store/zydevkit/wiki/Installation)
 - [简体中文安装指南](https://github.com/zyravo-store/zydevkit/wiki/ZH-CN-Installation)
 - Prefer the official browser store or Mac App Store listing when available.
@@ -54,8 +54,8 @@ Source code is maintained in a separate private repository.
 
 | 项目 | 内容 |
 | --- | --- |
-| 版本 | Version 1.0.0 (2607291817) |
-| 更新说明与安装包 | [GitHub Release](https://github.com/zyravo-store/zydevkit/releases/tag/v1.0.0) |
+| 版本 | Version 1.0.2 (2610110905) |
+| 更新说明与安装包 | [GitHub Release](https://github.com/zyravo-store/zydevkit/releases/tag/v1.0.2) |
 | 校验文件 | 与安装包位于同一个 Release |
 
 ### 主要功能
@@ -66,7 +66,7 @@ Source code is maintained in a separate private repository.
 
 ### 下载与安装
 
-- [下载已验证的 Release 安装包](https://github.com/zyravo-store/zydevkit/releases/tag/v1.0.0)
+- [下载已验证的 Release 安装包](https://github.com/zyravo-store/zydevkit/releases/tag/v1.0.2)
 - [简体中文安装指南](https://github.com/zyravo-store/zydevkit/wiki/ZH-CN-Installation)
 - [英文安装指南](https://github.com/zyravo-store/zydevkit/wiki/Installation)
 - 浏览器商店或 Mac App Store 版本上线后，优先使用官方商店安装。

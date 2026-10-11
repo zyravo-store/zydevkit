@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "product": "ZyDevKit",
+  "version": "1.0.2",
+  "build": "2610110905",
+  "displayVersion": "Version 1.0.2 (2610110905)",
+  "tag": "v1.0.2",
+  "releaseTitle": "ZyDevKit 1.0.2 (2610110905)",
+  "website": "https://zydevkit.zyravo.store",
+  "supportEmail": "support@zyravo.store",
+  "feedbackEmail": "feedback@zyravo.store",
+  "issuesUrl": "https://github.com/zyravo-store/zydevkit/issues",
+  "wikiUrl": "https://github.com/zyravo-store/zydevkit/wiki",
+  "releaseUrl": "https://github.com/zyravo-store/zydevkit/releases/tag/v1.0.2",
+  "updates": {
+    "en": [
+      "Added responsive phone and tablet extension layouts with reachable product and language controls.",
+      "Stabilized Safari popup startup geometry and aligned host/extension version, build, signing, and bundle metadata.",
+      "Clarified local-first product and review information in Settings.",
+      "Added a user-initiated stable update check that opens only the matching public GitHub Release and never installs automatically."
+    ],
+    "zh-CN": [
+      "新增手机与平板扩展布局，确保产品标题和语言入口在触屏设备上可达。",
+      "稳定 Safari 弹窗启动尺寸，并统一主应用与扩展的版本、构建号、签名和 Bundle ID 元数据。",
+      "在设置页补充更清晰的本地优先产品与审核说明。",
+      "新增用户主动触发的稳定版更新检查，仅打开匹配的公开 GitHub Release，绝不自动安装。"
+    ]
+  },
+  "features": {
+    "en": [
+      "Inspect and transform common developer data formats.",
+      "Use focused browser utilities from one developer toolbox.",
+      "Run supported tools across Chrome, Edge, Firefox, and Safari."
+    ],
+    "zh-CN": [
+      "检查并转换常用开发数据格式。",
+      "在一个开发工具箱中使用多种专注的浏览器工具。",
+      "在 Chrome、Edge、Firefox 和 Safari 中使用支持的工具。"
+    ]
+  },
+  "packages": {
+    "chrome": {
+      "file": "zydevkit-chrome-1.0.2.zip",
+      "url": "https://github.com/zyravo-store/zydevkit/releases/download/v1.0.2/zydevkit-chrome-1.0.2.zip"
+    },
+    "edge": {
+      "file": "zydevkit-edge-1.0.2.zip",
+      "url": "https://github.com/zyravo-store/zydevkit/releases/download/v1.0.2/zydevkit-edge-1.0.2.zip"
+    },
+    "firefox": {
+      "file": "zydevkit-firefox-1.0.2.zip",
+      "url": "https://github.com/zyravo-store/zydevkit/releases/download/v1.0.2/zydevkit-firefox-1.0.2.zip"
+    },
+    "windows": {
+      "file": "zydevkit-windows-1.0.2.zip",
+      "url": "https://github.com/zyravo-store/zydevkit/releases/download/v1.0.2/zydevkit-windows-1.0.2.zip"
+    },
+    "linux": {
+      "file": "zydevkit-linux-1.0.2.zip",
+      "url": "https://github.com/zyravo-store/zydevkit/releases/download/v1.0.2/zydevkit-linux-1.0.2.zip"
+    },
+    "macos-pkg": {
+      "file": "zydevkit-macos-1.0.2.pkg",
+      "url": "https://github.com/zyravo-store/zydevkit/releases/download/v1.0.2/zydevkit-macos-1.0.2.pkg"
+    },
+    "macos-dmg": {
+      "file": "zydevkit-macos-1.0.2.dmg",
+      "url": "https://github.com/zyravo-store/zydevkit/releases/download/v1.0.2/zydevkit-macos-1.0.2.dmg"
+    },
+    "checksums": {
+      "file": "zydevkit-1.0.2-sha256.txt",
+      "url": "https://github.com/zyravo-store/zydevkit/releases/download/v1.0.2/zydevkit-1.0.2-sha256.txt"
+    }
+  },
+  "changes": {
+    "en": [
+      "Inspect and transform common developer data formats.",
+      "Use focused browser utilities from one developer toolbox.",
+      "Run supported tools across Chrome, Edge, Firefox, and Safari."
+    ],
+    "zh-CN": [
+      "检查并转换常用开发数据格式。",
+      "在一个开发工具箱中使用多种专注的浏览器工具。",
+      "在 Chrome、Edge、Firefox 和 Safari 中使用支持的工具。"
+    ]
+  }
+}
